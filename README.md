@@ -1,3 +1,5 @@
+> **Retired.** This package was retired during the move to [mark1russell7/client](https://github.com/mark1russell7/client). Its full history is in that repository. This repository is archived.
+
 # @mark1russell7/server-mongo
 
 > **DEPRECATED**: This package is deprecated. Use the general `@mark1russell7/server` package instead:
